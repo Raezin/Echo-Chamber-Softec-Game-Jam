@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+__pycache__/
+*.pyc
+.venv/
+env/
+.DS_Store
+Thumbs.db
+*.log
+temp/
+tmp/
+Library/  # Unity
+*.exe
+*.dll
+*.so
+*.dylib
